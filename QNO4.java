@@ -4,7 +4,7 @@
  * @author (your name)
  * @version (a version number or a date)
  */
-public class QNO1 {
+public class QNO4 {
     // Member variables (fields) for all 8 primitive types
     byte b;
     short s;
@@ -17,7 +17,7 @@ public class QNO1 {
 
     public static void main(String[] args) {
         // Create an instance of the class
-        QNO1 obj = new QNO1();
+        QNO4 obj = new QNO4();
 
         // Print the default values of each field
         System.out.println("byte default: " + obj.b);
