@@ -5,7 +5,7 @@
  * @author (your name)
  * @version (a version number or date)
  */
-public class QNO3 {
+public class DataTypeInspector {
     public static void main(String[] args) {
         // 1. byte (8-bit signed integer)
         byte b = 100;
